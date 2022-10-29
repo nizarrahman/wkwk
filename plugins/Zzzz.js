@@ -9,7 +9,7 @@ let esce = `Hello kak ${ye} Lagi Nyari Sc Ya?
 📮 Instagram :
 instagram.com/nizarrrahman.f_
 📮 GITHUB :
-github.com/krizynofc/nizarrahman
+github.com/nizarrahman/
 
 📮 JANGAN LUPA MAMPIR :
 https://nizarrahman.github.io/myProfile/#`
