@@ -9,22 +9,20 @@ let fs = require('fs')
 let fetch = require('node-fetch')
 let handler = async (m, { conn }) => {
 let media = global.media
-  let kri = `FIRST THANKS = KRIZYNOFC
+  let kri = `FIRST THANKS = 𝗡𝗶𝘇𝗮𝗿 𝗥𝗮𝗵𝗺𝗮𝗻
 NOTE : *Telah Mengembangkan Bot*
   
 TWO THANKS = WHATSAPP OFFCIAL
 NOTE : *Telah ngebanned Nomor Bot*`
   
-let ofc = ` ${hki} THANKS CREATOR ${hka}
+let ofc = ` ${hki} 𝗧𝗛𝗔𝗡𝗞𝗦 𝗧𝗘𝗔𝗠 ${hka}
 
-⤿ Nurutomo
-    📮 https://github.com/Nurutomo
-⤿ Ilmanhdyt
-    📮 https://github.com/ilmanhdyt
-⤿ Hyzer Official
-    📮 https://github.com/Hyzerr
-⤿ Krizyn Ofc
-    📮 https://github.com/krizynofc
+⤿ 𝙉𝙞𝙯𝙖𝙧
+    📮 https://instagram.com/nizarrrahman.f_
+⤿ 𝘼𝙙𝙧𝙮𝙖𝙣
+    📮 https://instagram.com/adrynngrha/
+⤿ 𝙄𝙧𝙝𝙖𝙢
+    📮 https://instagram.com/yuki_sen23/
     
 THANKS PARA DONASI YANG TERHORMAT`
 
