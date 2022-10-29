@@ -32,7 +32,7 @@ item1.TEL;waid=6281386945391:6281386945391@s.whatsapp.net
 item1.X-ABLabel: Nomor Owner Bot
 item2.EMAIL;type=INTERNET: rnizar221@gmail.com
 item2.X-ABLabel:📫 Gmail
-item3.ADR:;;📍 Acehnese - Indonesian;;;;
+item3.ADR:;;📍 Cianjur - Indonesian;;;;
 item3.X-ABADR:ac
 item3.X-ABLabel:📮 Location Owner
 item5.URL:https//github.com/nizarrahman
