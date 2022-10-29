@@ -3,7 +3,7 @@
 // JANGAN DIHAPUS KALAU MAU DITAMBAHIN
 
 // NUMBER
-global.owner = ['6281386945391'] 
+global.owner = ['6281386945391','13866931735'] 
 global.mods = [] 
 global.prems = ['6281386945391'] 
 global.kontak = ['6281386945391']
@@ -77,17 +77,9 @@ global.ftb = '┃\n┗━━══┅┅══━━━✦\n'
 
 global.admen = `┏═┅〔 *SUPPORT* 〕┅═✦
 ┃
-┃⫹⫺ Nurutomo
-┃⫹⫺ Ilmanhdyt
-┃⫹⫺ Elyas
-┃⫹⫺ Hyzer
-┃⫹⫺ KrizynOfc
-┃⫹⫺ Zivsan
-┃⫹⫺ Mursid
-┃⫹⫺ Jarot
-┃⫹⫺ Kanna
-┃⫹⫺ Fokusid
-┃
+┃⫹⫺ Nizar
+┃⫹⫺ Adryan
+┃⫹⫺ Irham(beban)
 ┗━━══┅┅══━━━✦`
         
 // HIASAN MENU LAINNYA 
