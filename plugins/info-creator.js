@@ -26,29 +26,27 @@ let handler = async (m, {conn}) => {
 const vcard = `BEGIN:VCARD
 VERSION:3.0
 N:;;;
-FN: ᯤ ᴋʀɪᴢʏɴ ᴏꜰᴄ
+FN: ᯤ 𝗡𝗶𝘇𝗮𝗿 𝗥𝗮𝗵𝗺𝗮𝗻
 item.ORG: ᴅᴇᴠᴇʟᴏᴩᴇʀ ʙᴏᴛ
-item1.TEL;waid=62895327934887:62895327934887@s.whatsapp.net
+item1.TEL;waid=6281386945391:6281386945391@s.whatsapp.net
 item1.X-ABLabel: Nomor Owner Bot
-item2.EMAIL;type=INTERNET: mhdfakri14@gmail.com
+item2.EMAIL;type=INTERNET: rnizar221@gmail.com
 item2.X-ABLabel:📫 Gmail
 item3.ADR:;;📍 Acehnese - Indonesian;;;;
 item3.X-ABADR:ac
 item3.X-ABLabel:📮 Location Owner
-item4.URL:http://youtube.com/c/hokenbeusz
-item4.X-ABLabel:Youtube
-item5.URL:https//github.com/krizynofc
+item5.URL:https//github.com/nizarrahman
 item5.X-ABLabel:Github
-item6.URL:https//instagram.com/mhdfakri_
+item6.URL:https//instagram.com/nizarrrahman.f__
 item6.X-ABLabel:Instagram
-item7.URL:https://lynk.id/kri.com
+item7.URL:https://nizarrahman.github.io/myProfile/#
 item7.X-ABLabel:Website
 END:VCARD`
 const sentMsg  = await conn.sendMessage(
     m.chat,
     { 
         contacts: { 
-            displayName: 'OWNER BOT', 
+            displayName: '𝗡𝗶𝘇𝗮𝗿 𝗥𝗮𝗵𝗺𝗮𝗻', 
             contacts: [{ vcard }]  
         }
     }
