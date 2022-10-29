@@ -3,30 +3,30 @@
 // JANGAN DIHAPUS KALAU MAU DITAMBAHIN
 
 // NUMBER
-global.owner = ['62895327934887'] 
+global.owner = ['6281386945391'] 
 global.mods = [] 
-global.prems = [] 
-global.kontak = ['62895327934887']
+global.prems = ['6281386945391'] 
+global.kontak = ['6281386945391']
 
 //  INFO BOT 
-global.naown = 'KRIZYN OFC'
-global.noown = '62895327934887'
-global.namebot = 'FORYN FOUR'
-global.nobot = '6289502319715'
+global.naown = 'Nizar Rahman'
+global.noown = '6281386945391'
+global.namebot = '𝗡𝗮𝗶-𝗗𝗲𝘃-𝗕𝗼𝘁-𝗩𝟮'
+global.nobot = '16814994296'
 
 //  URL SOSMED
-global.instagram = 'https://instagram.com/itskri99'
-global.github = 'https://github.com/krizynofc'
-global.gc = 'https://chat.whatsapp.com/HVyRaNWp18NKMAIHv8NjLP'
-global.web = 'https://lynk.id/kri.com' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
-global.saweria = 'https://saweria.co/Kricom'
+global.instagram = 'https://instagram.com/nizarrrahman.f_'
+global.github = 'https://github.com/nizarrahman'
+global.gc = 'https://chat.whatsapp.com/BWHiCcMOZG39gYt1HCc2ue'
+global.web = 'https://nizarrahman.github.io/myProfile/#' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
+global.saweria = '-'
 
 // PAYMANT 
-global.dana = '081360482998'
-global.pulsa = '081360482998'
-global.gopay = '081360482998'
-global.shopay = '081360482998'
-global.ovo = '081360482998'
+global.dana = '081386945391'
+global.pulsa = '081386945391'
+global.gopay = '081386945391'
+global.shopay = '-'
+global.ovo = '-'
 
 // PROFILE ALL 
 global.ppreg = 'https://telegra.ph/file/445721f7cdab701543840.jpg'
@@ -54,10 +54,10 @@ global.fsizedoc = '99999999999999' // default 10TB
 global.fpagedoc = '999'
 
 // WATERMARK  
-global.wm = 'ᬊᬁ 𝐅𝐎𝐑𝐘𝐍 𝐅𝐎𝐔𝐑'
+global.wm = 'ᬊᬁ 𝗡𝗮𝗶-𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿'
 global.watermark = wm
-global.wm2 = '⫹⫺ 𝙋𝙤𝙬𝙚𝙧𝙚𝙙 𝘽𝙮 𝙆𝙧𝙞𝙯𝙮𝙣𝙊𝙛𝙘'
-global.wm3 = '⫹⫺ 𝐅𝐎𝐑𝐘𝐍 𝐅𝐎𝐔𝐑 | BOT WHATSAPP MD'
+global.wm2 = '⫹⫺ 𝗣𝗼𝘄𝗲𝗿𝗲𝗱 𝗕𝘆 𝗡𝗶𝘇𝗮𝗿'
+global.wm3 = '⫹⫺ 𝗡𝗮𝗶-𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿 | BOT WHATSAPP MD'
 global.tb = 'WHATSAPP BOT MULTI DEVICE'
 
 //  DEFAULT MENU  
@@ -104,8 +104,8 @@ global.salah = 'Salah ❌\n'
 
 // WATERMARK STICKER 
 global.stiker_wait = '⏳ Stiker sedang Proses'
-global.packname = 'FORYN FOUR'
-global.author = 'By krizynOfc'
+global.packname = '𝐍𝐀𝐈-𝐃𝐄𝐕-𝐁𝐎𝐓-𝐕𝟐'
+global.author = 'By 𝗡𝗮𝗶-𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿'
 
 //  APIKEY ANDA 
 global.lolkey = 'Papah-Chan' //biar mudah ngegantinya semisal apikeynya expired:v
