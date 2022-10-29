@@ -1,4 +1,4 @@
-<img src="./media/Nizarstore.png" />
+<img src="./media/Nizarstore.png" align="center" />
 
 
 </p>
@@ -9,7 +9,7 @@
 >
 </div>
 <p align="center">
-  <a href="https://github.com/krizynofc"><img title="GitHub" src="https://img.shields.io/badge/Github-frostkri.svg?style=for-the-badge&logo=github" /></a>
+  <a href="https://github.com/nizarrahman"><img title="GitHub" src="https://img.shields.io/badge/Github-frostkri.svg?style=for-the-badge&logo=github" /></a>
   <a href="httts://instagram.com/mhdfakri_"><img title="Instagram " src="https://img.shields.io/badge/Instagram-Hyzerr.svg?style=for-the-badge&logo=instagram" /></a>
   <h4 align="center">
   <a
