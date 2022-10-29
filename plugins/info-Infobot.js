@@ -38,13 +38,14 @@ let d = new Date(new Date + 3600000)
 ├◌ *Api* : wa.me/${global.owner[0]}
 ├◌ *Name Bot* : ${global.namebot}
 ├◌ *Api* : wa.me/${global.nobot[0]}
+├◌ *Website* : https://nizarrahman.github.io/myProfile/#]}
 ╰─❒
 
 ╭─❒〘 *I N F O  D A T A* 〙
 ├◌ *Version* : 4.4.1
 ├◌ *Library* : Baileys-MD
 ├◌ *Language* : JavaScript
-├◌ *Database* : MongoDB
+├◌ *Database* : NizDataBase
 ╰─❒
 
 ╭─❒〘 *T O D A Y* 〙
