@@ -11,21 +11,18 @@
 <p align="center">
   <a href="https://github.com/krizynofc"><img title="GitHub" src="https://img.shields.io/badge/Github-frostkri.svg?style=for-the-badge&logo=github" /></a>
   <a href="httts://instagram.com/mhdfakri_"><img title="Instagram " src="https://img.shields.io/badge/Instagram-Hyzerr.svg?style=for-the-badge&logo=instagram" /></a>
-  <a href="https://youtube.com/c/hokenbeusz"><img title="Youtube" src="https://img.shields.io/badge/Youtube-Hyzerr.svg?style=for-the-badge&logo=youtube" /></a>
   <h4 align="center">
   <a
-  <a href="https://wa.me/62895327934887">Chat Saya Jika Ingin Menanyakan Sesuatu </a>
+  <a href="https://wa.me/6281386945391">Chat Saya Jika Ingin Menanyakan Sesuatu </a>
 </h4>
 </p>
 
 # DONATE ( DONASI UNTUK KRIZYN)
-> Jika ingin berdonasi untuk krizyn
-> Klik [ SAWERIA ](https://saweria.co/Kricom) 
+> Jika ingin berdonasi untuk Nizar
 
 # BISA JUGA LEWAT VIA LAIN
-》 DANA  = 081360482998
-》 PULSA = 081360482998
-》 OVO   = 081360482998
+》 Gopay  = 081386945391
+》 PULSA = 081386945391
 
 # Ambil Session Disini
 
@@ -75,4 +72,4 @@ WhatsApp Bot Multi Device
 ---------
 
 ## Request Fitur To
-[`Creator Here`](https://wa.me/62895327934887?text=Banh+req+fitur) 
+[`Creator Here`](https://wa.me/6281386945391?text=Banh+req+fitur) 
